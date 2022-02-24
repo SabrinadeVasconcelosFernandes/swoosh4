@@ -1,10 +1,8 @@
-package com.sabsrocambole.swoosh2
+package com.sabsrocambole.swoosh2.Controller
 
 import android.content.Intent
 import android.os.Bundle
-import android.service.controls.templates.ControlButton
 import android.widget.Button
-import androidx.appcompat.app.AppCompatActivity
 import com.sabsrocambole.swoosh4.R
 
 

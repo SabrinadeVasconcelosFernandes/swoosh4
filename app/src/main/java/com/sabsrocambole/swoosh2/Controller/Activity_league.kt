@@ -1,12 +1,13 @@
-package com.sabsrocambole.swoosh2
+package com.sabsrocambole.swoosh2.Controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.Button
 import android.widget.Toast
 import android.widget.ToggleButton
+import com.sabsrocambole.swoosh2.Controller.BaseActivity
+import com.sabsrocambole.swoosh2.EXTRA_LEAGUE
+import com.sabsrocambole.swoosh2.Controller.SkillActivity
 import com.sabsrocambole.swoosh4.R
 
 class activity_league : BaseActivity() {

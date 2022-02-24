@@ -1,4 +1,4 @@
-package com.sabsrocambole.swoosh2
+package com.sabsrocambole.swoosh2.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
