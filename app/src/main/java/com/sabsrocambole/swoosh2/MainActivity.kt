@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.service.controls.templates.ControlButton
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
+import com.sabsrocambole.swoosh4.R
 
 
 class MainActivity : BaseActivity() {
